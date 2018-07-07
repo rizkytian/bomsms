@@ -23,15 +23,15 @@ fungsi  jdidbom ( $ no , $ jum , $ wait ) {
 echo  "
 ################################################## ##########
     SMS Spammer Dari JD.ID
-    Mod By: Rizky Tian
+    Mod By: Rizky_Tian
     Hubungi Saya: Rizkytian91@gmail.com
-    panel smm: mastersosmed.com
-    situs download mp3: www.mp3ku.xyz
-    Instagram: @rizkytian_
+    Panel SMM: mastersosmed.com
+    Situs Download lagu: Mp3ku.xyz
+    Instagram: @ rizkytian_
     Terima kasih kepada: BabbyCyberTeam & SGB-TEAM
     Penggunaan: Awali Dengan Angka [8]
 ################################################## ########## \ n " ;
-gema  " \ n  \ e [93M ------------------ \ n Contoh 81234678××× \ n -------- ---------- \ n \ n Jumlah Target: " ;
+gema  " \ n  \ e [93M ------------------ \ n Contoh 8 ×××××××××× \ n -------- ---------- \ n \ n Jumlah Target: " ;
 $ jumlah  =  trim ( fgets ( STDIN ));
 echo  " Jumlah Paket: " ;
 $ jumlah  =  trim ( fgets ( STDIN ));
