@@ -2,7 +2,7 @@
 termasuk  ' func.php ' ;
 / *
     https://github.com/nee48/BomTelpSmsTokped
-    Dibuat oleh Bowo
+    Dibuat oleh Handika Pratama
 * /
 $ init  =  Bom baru  ();
 // Eksekusi Call / Sms Boomber (Batas 3x / Jam)
