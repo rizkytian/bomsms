@@ -2,6 +2,4 @@
 
 Kumpulan Beberapa Script Spam Sms Buatan Para Mastah.
 
-Saya Hanya Bantu Nyusun Agar Lebih Mudah Di Gunakan Saja.
-
-Tutorial install di www.gebangkiidiw.com
+saya hanya bantu menyempurnakan saja dengan racikan  saya sendiri ^_^
