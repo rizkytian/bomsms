@@ -1,4 +1,4 @@
-<? php
+<? ph<? php
 error_reporting ( 0 );
 Class  Bom {
 	 $ publik tidak ;
